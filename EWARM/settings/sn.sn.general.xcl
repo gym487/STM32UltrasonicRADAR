@@ -1,0 +1,15 @@
+"F:\iar\arm\bin\armproc.dll" 
+
+"F:\iar\arm\bin\armstlink2.dll" 
+
+"F:\sn\EWARM\sn\Exe\sn.out" 
+
+--plugin="F:\iar\arm\bin\armbat.dll" 
+
+--device_macro="F:\iar\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="F:\iar\arm\config\flashloader\ST\FlashSTM32F10xxE.board" 
+
+
+
+
